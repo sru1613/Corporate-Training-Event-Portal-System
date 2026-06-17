@@ -98,7 +98,7 @@ corporatetrainingeventportals/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/digambark34/corporate-training-event-portals.git
+git clone https://github.com/sru1613/Corporate-Training-Event-Portal-System.git
 cd corporate-training-event-portals
 ```
 
